@@ -8,7 +8,8 @@ namespace MyWebApp
     {
         public void Configuration(IAppBuilder app)
         {
-            ConfigureAuth(app);
+            ConfigureAuth(app); 
+	    //HELLO WORLD
         }
     }
 }
